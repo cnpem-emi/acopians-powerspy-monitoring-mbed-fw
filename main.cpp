@@ -17,8 +17,8 @@ int main()
     while (true) {
         //led4 = !led4;
         //osDelay(100);
-        led3 = !led3;
-        osDelay(150); 
+        //led3 = !led3;
+        //osDelay(150); 
         //led2 = !led2;
         //osDelay(200);
         //led1 = !led1;
