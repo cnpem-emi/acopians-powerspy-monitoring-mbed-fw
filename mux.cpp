@@ -80,7 +80,7 @@ void SweepChannel(uint8_t read_channel_until) {
        for (int i = 0; i < read_channel_until; i++) {
            SWEEP_RESULTS[i] = ReadChannel(i);
             
-        } 
+        }
 }
 
 // Função para printar as medidas no serial monitor
